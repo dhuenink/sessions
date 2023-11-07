@@ -1,3 +1,3 @@
-module github.com/gorilla/sessions
+module github.com/dhuenink/sessions
 
-require github.com/gorilla/securecookie v1.1.1
+require github.com/dhuenink/securecookie v1.1.1
