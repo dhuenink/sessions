@@ -1,3 +1,5 @@
 module github.com/dhuenink/sessions
 
-require github.com/dhuenink/securecookie v1.1.1
+go 1.21.3
+
+require github.com/dhuenink/securecookie v0.0.0-20231107013613-79e3c7d32962
